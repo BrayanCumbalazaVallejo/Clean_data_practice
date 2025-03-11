@@ -1,4 +1,4 @@
-pytest
+seaborn
 pandas
 matplotlib
 ipykernel
